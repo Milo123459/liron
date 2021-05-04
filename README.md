@@ -1,2 +1,2 @@
 # liron
- 😎 A terminal based text editor
+😎 A terminal based text editor

@@ -5,3 +5,8 @@
 .precomp
 lib/.precomp
 
+
+
+# Added by cargo
+
+/target
